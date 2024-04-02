@@ -1,8 +1,7 @@
 <?php
 
 /*
- * Plugin Name:       WP Code Syntax Highlight
- * Plugin URI:        https://christaylordeveloper.co.uk
+ * Plugin Name:       CTD Code Syntax Highlight
  * Description:       Syntax highlighting for code blocks.
  * Version:           1.0
  * Author:            Chris Taylor
